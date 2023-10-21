@@ -48,11 +48,6 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [TeachCyber](https://teachcyber.tk/) – a list of free online resources
 * [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
 
-
-## Authors
-
-This list was compiled and is maintained by the members of the [CSIRT-MU team](https://csirt.muni.cz/) at the [Masaryk University](https://muni.cz).
-
 # Contacts
 
 Email:- sp3130016@gmail.com
